@@ -21,6 +21,7 @@ header > p, .donate-today-section > p, .donate-plan-section > p, .newsletter-sec
   font-weight: 300;
   width: 50%;
   margin-bottom: 40px;
+  margin-top: 5px;
 }
 
 header > p {
