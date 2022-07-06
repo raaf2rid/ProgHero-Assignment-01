@@ -26,7 +26,8 @@ header > p, .donate-today-section > p, .donate-plan-section > p, .newsletter-sec
 
 header > p {
   color: rgba(255, 255, 255, 0.9);
-  font-size: 1rem;
+  margin-top: 15px;
+  width: 650px;
 }
 
 .donate-today-section > p,  .donate-plan-section > p, .newsletter-section > p{
@@ -126,6 +127,14 @@ header{
   align-items: center;
 }
 
+span{
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-top: 5px;
+}
+
 
 /* Donate Today Section */
 
@@ -193,12 +202,6 @@ input::-webkit-inner-spin-button {
 }
 
 
-span{
-  display: block;
-  font-size: 1.2rem;
-  text-transform: uppercase;
-  margin-top: 5px;
-}
 
 /* Donate Plan Section */
 
